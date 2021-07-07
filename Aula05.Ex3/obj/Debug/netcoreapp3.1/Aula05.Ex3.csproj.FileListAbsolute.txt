@@ -1,0 +1,13 @@
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Aula05.Ex3\Aula05.Ex3\bin\Debug\netcoreapp3.1\Aula05.Ex3.exe
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Aula05.Ex3\Aula05.Ex3\bin\Debug\netcoreapp3.1\Aula05.Ex3.deps.json
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Aula05.Ex3\Aula05.Ex3\bin\Debug\netcoreapp3.1\Aula05.Ex3.runtimeconfig.json
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Aula05.Ex3\Aula05.Ex3\bin\Debug\netcoreapp3.1\Aula05.Ex3.runtimeconfig.dev.json
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Aula05.Ex3\Aula05.Ex3\bin\Debug\netcoreapp3.1\Aula05.Ex3.dll
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Aula05.Ex3\Aula05.Ex3\bin\Debug\netcoreapp3.1\Aula05.Ex3.pdb
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Aula05.Ex3\Aula05.Ex3\obj\Debug\netcoreapp3.1\Aula05.Ex3.csproj.AssemblyReference.cache
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Aula05.Ex3\Aula05.Ex3\obj\Debug\netcoreapp3.1\Aula05.Ex3.AssemblyInfoInputs.cache
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Aula05.Ex3\Aula05.Ex3\obj\Debug\netcoreapp3.1\Aula05.Ex3.AssemblyInfo.cs
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Aula05.Ex3\Aula05.Ex3\obj\Debug\netcoreapp3.1\Aula05.Ex3.csproj.CoreCompileInputs.cache
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Aula05.Ex3\Aula05.Ex3\obj\Debug\netcoreapp3.1\Aula05.Ex3.dll
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Aula05.Ex3\Aula05.Ex3\obj\Debug\netcoreapp3.1\Aula05.Ex3.pdb
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Aula05.Ex3\Aula05.Ex3\obj\Debug\netcoreapp3.1\Aula05.Ex3.genruntimeconfig.cache
